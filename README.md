@@ -2,6 +2,11 @@
 
 An AI-powered urban traffic monitoring system designed to **autonomously detect, analyze, and provide insights** on real-time traffic conditions, vehicle movement, and possible incidents using visual, audio, and graph-based techniques.
 
+**Course:** CT-361 Artificial Intelligence & Expert System
+
+**Department:** Computer Science & Information Technology, NED University  
+
+**Student:** Afifa Siddique  
 ---
 
 ##  Overview
