@@ -6,7 +6,8 @@ An AI-powered urban traffic monitoring system designed to **autonomously detect,
 
 **Department:** Computer Science & Information Technology, NED University  
 
-**Student:** Afifa Siddique  
+**Student:** Afifa Siddique 
+
 ---
 
 ##  Overview
